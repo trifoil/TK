@@ -5,9 +5,9 @@ The final product should include :
 
 * Hardware
   
- * Bundle rogue
+   * Bundle rogue
    
-     * Handheld + backpack
+      * Handheld + backpack
   
 * Software
 ## Software part
