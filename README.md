@@ -8,6 +8,8 @@ The final product should include :
    * Bundle rogue
    
       * Handheld + backpack
+    
+    * Bundle headquarters
   
 * Software
 ## Software part
