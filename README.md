@@ -13,7 +13,7 @@ The final product should include :
   * Bundle headquarters
 
     * Desktop computer
-    * Custom built sim
+    * Custom built sim, including
 
       * Handwheel,
       * Dashboard
