@@ -21,14 +21,18 @@ The final product should include :
     * Desktop computer
     * Custom built sim, including
 
-      * Handwheel,
+      * Handwheel
       * Dashboard
       * Pedals
       * Joystick
       
 * Software
 
-The project initially started 
+The project initially started using python and the following modules :
+
+  * Pygame
+  * OpenCV
+  * 
 
 
 ## Software part
