@@ -28,7 +28,9 @@ The final product should include :
       
 * Software
 
-The project started 
+The project initially started 
+
+
 ## Software part
 
 Made with love
