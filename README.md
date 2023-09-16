@@ -5,13 +5,24 @@ The final product should include :
 
 * Hardware
   
-   * Bundle rogue
+  * Bundle rogue
    
-      * Handheld + backpack
+    * Handheld
+    * Backpack (optional)
     
-    * Bundle headquarters
-  
+  * Bundle headquarters
+
+    * Desktop computer
+    * Custom built sim
+
+      * Handwheel,
+      * Dashboard
+      * Pedals
+      * Joystick
+      
 * Software
+
+The project started 
 ## Software part
 
 Made with love
