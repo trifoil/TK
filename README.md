@@ -9,6 +9,12 @@ The final product should include :
    
     * Handheld
     * Backpack (optional)
+   
+  * Bundle hybrid
+ 
+    * Gamepad
+    * Laptop
+    * Backpack (optional)
     
   * Bundle headquarters
 
