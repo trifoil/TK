@@ -40,3 +40,10 @@ The project initially started using python and the following modules :
 Made with love
 
 https://www.youtube.com/watch?v=TH7plF4UT_E&list=PLSPw4ASQYyynKPY0I-QFHK0iJTjnvNUys&index=17
+
+### Client
+Includes the GUI
+### Server
+Embedded board 
+### Arduino
+Connected to the board
