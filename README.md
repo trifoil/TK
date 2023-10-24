@@ -1,49 +1,46 @@
-# TK 🛆
-Tank Kommander : Open source tank remote control sofware with video feedback
+# Tonk Kommander ↯
 
-The final product should include :
+## Intro
 
-* Hardware
-  
-  * Bundle rogue
-   
-    * Handheld
-    * Backpack (optional)
-   
-  * Bundle hybrid
- 
-    * Gamepad
-    * Laptop
-    * Backpack (optional)
-    
-  * Bundle headquarters
+Aimed at RC hobby vehicles, this software equipment aims to provide a complete remote solution to control your toy.
+The concept is actually the one of a ground station.
 
-    * Desktop computer
-    * Custom built sim, including
+## Real tasklist
 
-      * Handwheel
-      * Dashboard
-      * Pedals
-      * Joystick
-      
-* Software
+- [ ] Get joysticks inputs and print them on terminal
+- [ ] Establish a communication bridge using sockets
+- [ ] Send and receive data between sockets
+- [ ] Share a video stream on local network
+- [ ] Read and display video stream from local network
+- [ ] Imagine config file standards
+- [ ] Read config file
+- [ ] Create config file
+- [ ] Put read and create config file together
+- [ ] Nice GUI :)
+- [ ] Sound options (optional)
 
-The project initially started using python and the following modules :
+## Features
 
-  * Pygame
-  * OpenCV
-  * 
+Features include :
+* Network
+* Controls
+* Feedback
+* Video
+* UI and user management
+* Sound 
 
+### Network
 
-## Software part
+### Controls
 
-Made with love
+### Feedback
 
-https://www.youtube.com/watch?v=TH7plF4UT_E&list=PLSPw4ASQYyynKPY0I-QFHK0iJTjnvNUys&index=17
+### Video
 
-### Client
-Includes the GUI
-### Server
-Embedded board 
-### Arduino
-Connected to the board
+### UI and user management
+
+### Sound
+
+To be developed last
+
+## User manual 
