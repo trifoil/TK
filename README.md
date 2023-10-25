@@ -4,7 +4,7 @@
 
 Aimed at RC hobby vehicles, this software equipment is meant to provide a complete remote solution to control your toy.
 The concept is actually the one of a ground station.
-It will provide you full control of any actuator on the vehicle, provide a strong user management, reliable data transmission for a smooth user experience, while being fairly easily customized.
+It will give you full control of any actuator on the vehicle, provide a strong user management, reliable data transmission for a smooth user experience, while being fairly easily customized.
 
 ## Tasklist
 
