@@ -32,7 +32,18 @@ Features include :
 
 ### Network
 
+First approach 
+
+The network should always be a local network, for convenience and simplicity of code.
+
+All networks available should always be checked 
+
 ### Controls
+
+The app should send control data at a high rate to the vehicle.
+As a convention, the server is in the vehicle, because you can reconnect from another device, so it makes more sense.
+
+It should be verified that data hasn't been modified or altered.
 
 ### Feedback
 
@@ -45,4 +56,16 @@ Features include :
 To be developed last
 
 ## User manual 
+
+Start by crying (because you don't possess my genius)
+
+### Main menu
+
+### Commands
+
+### Views
+
+### Users management 
+
+## Pseudocode
 
