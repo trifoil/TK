@@ -35,7 +35,7 @@ Première approche
 
 Le réseau devrait toujours être un réseau local, pour des raisons de commodité et de simplicité du code.
 
-Tous les réseaux disponibles devraient toujours être vérifiés 
+Tous les réseaux disponibles devraient toujours être passés en revue 
 
 ### Contrôles
 
