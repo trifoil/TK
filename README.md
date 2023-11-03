@@ -1,8 +1,11 @@
+[![en](https://img.shields.io/badge/lang-en-gre.svg)](https://github.com/trifoil/TK/main/README.md) [![en](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/trifoil/TK/main/README.fr.md)
+
+
 # Tank Kommander ↯
 
 ## Intro
 
-Aimed at RC hobby vehicles, this software equipment is meant to provide a complete remote solution to control your toy.
+Aimed at RC hobby vehicles, this software equipment is meant to provide a complete remote solution to control your model.
 The concept is actually the one of a ground station.
 It will give you full control of any actuator on the vehicle, provide a strong user management, reliable data transmission for a smooth user experience, while being fairly easily customized.
 
