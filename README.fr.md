@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Destiné aux véhicules RC hobby, ce logiciel vise à fournir une solution complète pour contrôler votre jouet à distance. Le concept est en réalité celui d'une station terrestre. Il vous donnera un contrôle total sur n'importe quel actionneur du véhicule, offrira une gestion utilisateur solide, une transmission de données fiable pour une expérience utilisateur fluide, tout en étant assez facilement personnalisable.
+Destiné aux véhicules RC hobby, ce logiciel vise à fournir une solution complète pour contrôler votre modèle à distance. Le concept est en réalité celui d'une station terrestre. Il vous donnera un contrôle total sur n'importe quel actionneur du véhicule, offrira une gestion utilisateur solide, une transmission de données fiable pour une expérience utilisateur fluide, tout en étant assez facilement personnalisable.
 
 ## Liste de tâches
 
