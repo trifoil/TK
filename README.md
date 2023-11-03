@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-gre.svg)](https://github.com/trifoil/TK/main/README.md) [![en](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/trifoil/TK/main/README.fr.md)
+[![en](https://img.shields.io/badge/lang-en-gre.svg)](https://github.com/trifoil/TK/README.md) [![en](https://img.shields.io/badge/lang-fr-red.svg)](https://github.com/trifoil/TK/README.fr.md)
 
 
 # Tank Kommander ↯
